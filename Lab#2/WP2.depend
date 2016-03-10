@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1457640744 source:c:\users\begav_000\desktop\wp2\wp2\main.cpp
+	<tchar.h>
+	"dlg.h"
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+
+1457638362 c:\users\begav_000\desktop\wp2\wp2\dlg.h
+
+1457640771 source:c:\users\begav_000\desktop\wp2\wp2\dlg.rc
+	"dlg.h"
+	<windows.h>
+
