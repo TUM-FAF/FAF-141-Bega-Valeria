@@ -9,3 +9,5 @@ circles, on Alt+R will continue to draw circles but of read color)
 Made shortcuts for rectangle and sreen clearing.
 
 More in the PDF.
+
+Please read [markdown docs](https://daringfireball.net/projects/markdown/syntax) how to properly write in MD file
