@@ -10,4 +10,4 @@ Made shortcuts for rectangle and sreen clearing.
 
 More in the PDF.
 
-Please read [markdown do](https://daringfireball.net/projects/markdown/syntax) how to properly write in MD file
+Please read [markdown docs](https://daringfireball.net/projects/markdown/syntax) how to properly write in MD file
