@@ -21,7 +21,7 @@ way messages in the WMHSCROLL are called. Color of the text is changing by using
 I added in the main folder where the main.cpp is located a custom cursos and icon, you can see the cool icon of a magic hat.
 Then they are declared in source file respectively.
 
--Add a listbox and attach some events when any element is accessed (clicked)
+- Add a listbox and attach some events when any element is accessed (clicked)
 I've created the listbox using CreateWindowEx() by specifying the 2nd parameter as "LISTBOX". Elements in the listbox are added from the 
 interaction between an editbox and a button. When an element from listbox is double-clicked, a messagebox with the name of selected 
 element is displayed; when on a selected element from listbox is pressed right click, an alert is displayed about deleting the selected
